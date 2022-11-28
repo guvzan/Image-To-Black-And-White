@@ -1,0 +1,9 @@
+1. Enter the path to the required image in the field next to the "Choose the specified file" button.
+	For example: C:\img\my_image.jpg
+
+2. If no file is selected, a test image will be loaded.
+
+3. After the selected image is displayed, specify the name by which you want to save the received image.
+	For example: my_image_black.jpg
+
+4. Click the "-->" button to get a black and white image and save it to your downloads folder.
